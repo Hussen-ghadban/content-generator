@@ -63,8 +63,8 @@ export async function POST(req: Request) {
       customer: stripeCustomer?.stripeCustomerId,
       line_items,
       mode: "payment",
-      success_url: `http://https://content-generator-zmvx.vercel.app//dashboard/`,
-      cancel_url: `http://https://content-generator-zmvx.vercel.app//`,
+      success_url: `https://content-generator-zmvx.vercel.app/dashboard/`,
+      cancel_url: `https://content-generator-zmvx.vercel.app/`,
       metadata: {
         userId: userId,
       },
