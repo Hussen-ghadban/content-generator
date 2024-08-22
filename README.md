@@ -1,6 +1,4 @@
 
-![Thumbnail Studio DEV (13)](https://github.com/user-attachments/assets/35e433b0-d660-4c39-96f6-5079fd18c3d4)
-
 
 ## Getting Started
 
